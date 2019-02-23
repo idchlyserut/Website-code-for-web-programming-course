@@ -4,12 +4,9 @@ First Website edited for Web Programming Course 2019
 
 Tasks:
 Amirah
-- Banner
-- Header
+- index 
+- categories
 
-Id
-- Sidebar
-- Title 
-
-ni dulu lah kan. Untuk hari ni (20/2/2019)
-Tapi boleh buat lebih dari tu pun okay.
+Id 
+-contact
+-single
